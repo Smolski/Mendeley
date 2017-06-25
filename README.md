@@ -1,2 +1,3 @@
 # UFFS
-Mendeley
+Manual do usuário Mendeley:
+https://smolski.github.io/Mendeley/
