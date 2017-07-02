@@ -1,3 +1,4 @@
-# First Chapter
+Os sistemas operacionais que o Mendeley está apto a ser instaladas são Windows 7 ou superior, Mac OS e  Linux. Para a download do Mendeley, acesse [http://www.mendeley.com](http://www.mendeley.com&gt),  conforme instruções abaixo:
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+![](/assets/download.png)
+
