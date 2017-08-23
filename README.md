@@ -1,4 +1,4 @@
-# 1 Introdução
+# Introdução
 
 O programa Mendeley em sua versão desktop potencializa e facilita a administração de referências utilizadas na dinâmica da produção acadêmica, organizando os seus documentos pessoais \(artigos, livros, teses, dissertações, etc\), de forma a agilizar o processo de citações ao longo da escrita, ao mesmo tempo em que mantém o padrão das informações a serem utilizadas posteriormente atualizadas.
 
