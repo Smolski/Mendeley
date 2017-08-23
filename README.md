@@ -4,7 +4,7 @@ O programa Mendeley em sua versão desktop potencializa e facilita a administra�
 
 De forma complementar, o cadastro em seu site \(versão web\) possibilita o acesso a uma rede de pesquisas e pesquisadores, impulsionando a troca de informações e colaboração entre os pesquisadores, ao mesmo tempo em que possibilita a sincronização e guarda de sua base de dados.
 
-## 
+
 
 
 
