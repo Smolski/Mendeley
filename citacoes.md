@@ -5,7 +5,8 @@ Para efetuarem-se as citações no texto desejado, na aba Referências do Word, 
 ###Inserindo as Citações
 O exemplo abaixo mostra a citação entre parênteses, com mais de um autor, com dois trabalhos do mesmo autor no mesmo ano e com autores diferentes. Ainda, é possível inserção da página da qual foi retirada a referência, bem como suprimir o autor, mostrando em consequência somente o ano e/ou ano e página:
 
-![Citação no Microsoft Word](citacoes.gif)
+[https://raw.githubusercontent.com/Smolski/Mendeley/gh-pages/citacoes.gif](https://raw.githubusercontent.com/Smolski/Mendeley/gh-pages/citacoes.gif)
+![https://raw.githubusercontent.com/Smolski/Mendeley/gh-pages/citacoes.gif](https://raw.githubusercontent.com/Smolski/Mendeley/gh-pages/citacoes.gif)
 
 ###Alterando as Citações
 
